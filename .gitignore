@@ -5,4 +5,7 @@ datasets*/
 gan_env/
 
 # model
-model/	
+model/
+
+# WEights
+Weight*/	
