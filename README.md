@@ -8,7 +8,7 @@ loss.log and loss_D.log, loss_G are log files about training loss.
 
 Other files are util files to handle image files. 
 
-## Contact
+## Contacts
 If you can know about detail me, you can see my website.
 
 Qitta page: https://qiita.com/chi-na  
