@@ -11,8 +11,8 @@ Other files are util files to handle image files.
 ## Contacts
 If you can know about detail me, you can see my website.
 
-Qitta page: https://qiita.com/chi-na  
+- Qitta page: https://qiita.com/chi-na  
 
-Wantedly page: https://www.wantedly.com/users/113653637  
+- Wantedly page: https://www.wantedly.com/users/113653637  
 
-Github page: https://github.com/chihina
+- Github page: https://github.com/chihina
